@@ -14,7 +14,7 @@ The increasing amount of electronic waste (e-waste) poses significant environmen
 
 ## Proposed Solution / Architecture Diagram
 
-![download](https://github.com/Nithish23013509/SIHPS/assets/149038138/14887947-aa1e-429f-a3df-3061fbce3aea)
+![Architecture+-+Infrastructure+Diagram](https://github.com/Nithish23013509/SIHPS/assets/149038138/4fe25c33-d47e-449c-a8b9-e5f4e7efbcb2)
 
 
 ## Use Cases
