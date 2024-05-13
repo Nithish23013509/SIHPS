@@ -13,7 +13,9 @@ Ministry of Environment
 The increasing amount of electronic waste (e-waste) poses significant environmental and health hazards if not properly managed. However, many individuals and businesses struggle to locate nearby facilities equipped to handle e-waste disposal. Creating a centralized platform to locate these facilities could streamline the process of responsibly disposing of electronic devices.
 
 ## Proposed Solution / Architecture Diagram
-Develop a web or mobile application that allows users to easily locate nearby e-waste recycling facilities based on their current location or specified area. The application would provide information such as facility addresses, contact details, operating hours, accepted items, and any specific instructions for disposal. Users could also rate and review facilities based on their experiences, helping others make informed decisions.
+
+![download](https://github.com/Nithish23013509/SIHPS/assets/149038138/14887947-aa1e-429f-a3df-3061fbce3aea)
+
 
 ## Use Cases
 1. Individuals: People looking to dispose of old electronic devices such as smartphones, laptops, or TVs can use the app to find the nearest recycling center.
